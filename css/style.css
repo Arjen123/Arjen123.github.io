@@ -508,6 +508,10 @@ button{
 
 /*   RESPONSIVE   */
 @media screen and (max-width: 1310px){
+    .fa-angle-left,
+    .fa-angle-right{
+        display: none
+    }
     .man{
         padding-top: 20%;
         padding-bottom: 20%;
