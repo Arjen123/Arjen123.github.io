@@ -188,7 +188,7 @@ nav li a:hover{
 .fa-angle-left{
 
     position: absolute;
-    top: 118%;
+    top: 525px;
     left: 3%;
 }
 .fa-angle-left:before{
@@ -201,7 +201,7 @@ nav li a:hover{
 }
 .fa-angle-right{
     position: absolute;
-    top: 118%;
+    top: 525px;
     right: 3%;
 }
 .red1{
