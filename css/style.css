@@ -169,7 +169,7 @@ nav li a:hover{
     padding-top: 278px;
     padding-left: 7.5%;
     padding-bottom: 278px;
-    position: relative;
+ 
 }
 .provide{
     color: #bd2631;
@@ -188,7 +188,7 @@ nav li a:hover{
 .fa-angle-left{
 
     position: absolute;
-    top: 50%;
+    top: 118%;
     left: 3%;
 }
 .fa-angle-left:before{
@@ -201,7 +201,7 @@ nav li a:hover{
 }
 .fa-angle-right{
     position: absolute;
-    top: 50%;
+    top: 118%;
     right: 3%;
 }
 .red1{
